@@ -1,0 +1,29 @@
+form {
+    width: max-content;
+    font: veranda;
+    padding: 20px;
+    border-color: slateblue;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: left;
+}
+
+input[type=text]{
+    width: 100%;
+}
+
+input[type=password]{
+    width: 100%;
+}
+
+input[type=submit]{
+    background-color: slateblue;
+    color: white;
+    margin: auto;
+}
+
+div {
+    display: block;
+    text-align: center;
+}
